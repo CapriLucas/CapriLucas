@@ -1,5 +1,5 @@
 # Hi there 👋
-Im Lucas Capriata from Buenos Aires, Argentina. Im currently learning about web development back end and devops tools such as k8s and docker. Im studying information systems engineering at UTN (Universidad tecnologica nacional FRBA "National technological university"). I love solving problems always using the basics of its technology.
+I'm Lucas Capriata from Buenos Aires, Argentina. I'm currently learning about web development back end and devops tools such as k8s and docker. Im studying information systems engineering at UTN (Universidad tecnologica nacional FRBA "National technological university"). I love solving problems always using the basics of its technology.
 ### I've studied about:
 - c/c++
 - k8s
